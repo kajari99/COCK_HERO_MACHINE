@@ -3,7 +3,7 @@ COCK HERO MACHINE Project Archive files from:
 http://cockheromachine.blogspot.it/
 
 
-Arduino UNO based project
+Arduino UNO / NANO based project
 
 
 Communication use with:
